@@ -38,9 +38,5 @@ const todoListManager = {
   }
 };
 
-// Example calls so you see output when you open browser console
-todoListManager.add("Finish homework");
-todoListManager.add("Go to gym");
-todoListManager.list();
-todoListManager.delete(0);
-todoListManager.list();
+
+
